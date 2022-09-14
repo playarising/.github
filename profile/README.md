@@ -1,8 +1,6 @@
 <span align="center">
-# Arising: A Twirl of Destinies
+<h1> Arising: A Twirl of Destinies </h1>
 
-![BUILD](https://github.com/playarising/arising/actions/workflows/test.yml/badge.svg)
-[![codecov](https://codecov.io/gh/playarising/arising/branch/main/graph/badge.svg?token=CNNKAMNV9K)](https://codecov.io/gh/playarising/arising)
 
 [![Arising Logo](https://github.com/playarising/.github/blob/main/logo.png?raw=true)](https://playarising.com)
 
@@ -10,8 +8,6 @@
 [![Discord](https://img.shields.io/discord/983345927131656244)](https://discord.gg/arising)
 
 </span>
-
----
 
 Arising is the first web3-powered role-play community and experience. Through community participation and character creation, all players can create fantastic stories and moments through the world of Etia.
 
